@@ -1,3 +1,9 @@
+# Simple Calculator for Web Clients
+
+Calculator developed using Servlets. Eclipse Java EE + Tomcat 9.0 were used to create this app.
+
+---
+
 DESARROLLAR EN UN CLIENTE web, UNA CALCULADORA CON LAS SIGUIENTES OPERACIONES:
 1. SUMA (ALGEBRAICA)
 2. RESTA (ALGEBRAICA)
