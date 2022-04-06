@@ -2,7 +2,7 @@
 
 Calculator developed using Servlets. Eclipse Java EE + Tomcat 9.0 were used to create this app.
 
-Developers: Figueroa Alonso, C.I. V-28536894 and Perez Jairo, C.I. V-.
+Developers: Figueroa Alonso, C.I. V-28536894 and Perez Jairo, C.I. V-28336214.
 
 ---
 
